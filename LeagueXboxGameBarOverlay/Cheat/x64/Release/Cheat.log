@@ -1,0 +1,16 @@
+﻿  main.cpp
+F:\LUUKOverlay\Cheat\main.cpp(111,75): warning C4311: 'type cast': pointer truncation from 'LPOVERLAPPED' to 'DWORD'
+F:\LUUKOverlay\Cheat\main.cpp(111,75): warning C4302: 'type cast': truncation from 'LPOVERLAPPED' to 'DWORD'
+F:\LUUKOverlay\Cheat\main.cpp(113,83): warning C4311: 'type cast': pointer truncation from 'LPOVERLAPPED' to 'uint32_t'
+F:\LUUKOverlay\Cheat\main.cpp(113,83): warning C4302: 'type cast': truncation from 'LPOVERLAPPED' to 'uint32_t'
+F:\LUUKOverlay\Cheat\main.cpp(113,20): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+F:\LUUKOverlay\Cheat\main.cpp(113,20): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'HANDLE'
+F:\LUUKOverlay\Cheat\main.cpp(134,37): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+F:\LUUKOverlay\Cheat\main.cpp(156,54): warning C4311: 'type cast': pointer truncation from 'LPOVERLAPPED' to 'uint32_t'
+F:\LUUKOverlay\Cheat\main.cpp(156,54): warning C4302: 'type cast': truncation from 'LPOVERLAPPED' to 'uint32_t'
+F:\LUUKOverlay\Cheat\main.cpp(181,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 132 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cheat.vcxproj -> F:\LUUKOverlay\x64\Release\Cheat.exe

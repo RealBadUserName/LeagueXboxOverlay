@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\LeagueXboxGameBarOverlay\Cheat\main.cpp(102,20): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+F:\LeagueXboxGameBarOverlay\Cheat\main.cpp(123,37): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cheat.vcxproj -> F:\LeagueXboxGameBarOverlay\Release\Cheat.exe
